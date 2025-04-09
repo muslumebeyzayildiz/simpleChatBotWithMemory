@@ -12,3 +12,10 @@ history page
 streamingMemoryManagement
 ![image](https://github.com/user-attachments/assets/fa43889c-c63c-470b-a40d-cae7ebbdec41)
 
+requirements.txt kısmında hepsini indir önerisi çıkmıyorsa 
+seetings->projeninin ismi altında virtualenv environment-add local--> existing -->interpreter kısmı nda proje nin  klasörünün altındaki python 
+
+![image](https://github.com/user-attachments/assets/0bd116f6-20ec-4f9f-82c7-6ada8ed78961)
+
+
+
