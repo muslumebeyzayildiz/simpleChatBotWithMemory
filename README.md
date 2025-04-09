@@ -21,6 +21,9 @@ seetings->projeninin ismi altında virtualenv environment-add local--> existing 
 ![image](https://github.com/user-attachments/assets/25d928e4-af55-4c25-8a67-a8d659c6e83c)
 ![image](https://github.com/user-attachments/assets/7913359c-2822-4c20-a465-a3d63a7b99a3)
 
+![image](https://github.com/user-attachments/assets/b194f8a8-c20e-42c8-b386-877e8732c379)
+
+
 
 
 
