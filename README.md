@@ -19,6 +19,8 @@ seetings->projeninin ismi altında virtualenv environment-add local--> existing 
 
 #requirements.txt de çıkmadı kdfjjfgjf ama main de çıktı
 ![image](https://github.com/user-attachments/assets/25d928e4-af55-4c25-8a67-a8d659c6e83c)
+![image](https://github.com/user-attachments/assets/7913359c-2822-4c20-a465-a3d63a7b99a3)
+
 
 
 
