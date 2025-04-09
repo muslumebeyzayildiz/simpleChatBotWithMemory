@@ -7,3 +7,8 @@
 HAFIZASI OLAN CHATBOT
 history page 
 ![image](https://github.com/user-attachments/assets/e5db7302-cdb8-4e7b-a8d9-06595ec96343)
+
+
+streamingMemoryManagement
+![image](https://github.com/user-attachments/assets/fa43889c-c63c-470b-a40d-cae7ebbdec41)
+
